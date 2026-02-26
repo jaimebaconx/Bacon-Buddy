@@ -7,3 +7,4 @@ __pycache__/
 .env
 campfire/audio/
 campfire/transcripts/
+campfire/
