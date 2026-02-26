@@ -1,0 +1,9 @@
+data/
+knowledge/
+packages/
+venv/
+__pycache__/
+*.pyc
+.env
+campfire/audio/
+campfire/transcripts/
